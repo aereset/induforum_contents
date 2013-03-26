@@ -1,8 +1,7 @@
 % TITLE=Alumnos
-%SUBTITLE=Sorteos y promociones
-% DESCRIPTION=
-% KEYWORDS=
-
+% SUBTITLE=
+% DESCRIPTION=Sorteos
+% KEYWORDS=Promociones
 =Sorteos y premios=
 ----
 
@@ -10,7 +9,7 @@ Además de la gran oportunidad que supone para los alumnos de la ETSII la organi
 
 <p>
 <center>
-<img src="/images/premios.jpg" alt="premios"/>
+<img src="/images/premios.png" alt="premios"/>
 </center>
 </p>
 
