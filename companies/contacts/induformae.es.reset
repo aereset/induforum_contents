@@ -2,7 +2,7 @@
 % SUBTITLE=
 % DESCRIPTION=Miembros Induforma-e
 % KEYWORDS=Contacto Induforma-e
-<table>
+<table class="co_style">
     <thead>
         <tr>
         	<th>Photo</th>
