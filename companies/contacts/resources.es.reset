@@ -1,24 +1,34 @@
 % TITLE=Departamento de recursos
-%SUBTITLE=
-% DESCRIPTION=
-% KEYWORDS=
+% SUBTITLE=
+% DESCRIPTION=Miembros recursos
+% KEYWORDS=Contacto recursos
 
-
-=Resursos=
-----
-<table>
+<table class="co_style">
     <thead>
         <tr>
-        		<th>Foto</th>
-            <th>Name</th>
+            <th>Foto</th>
+            <th>Nombre</th>
             <th>email</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td><img src="/images/logo_photo.png" alt="profile_foto"  class="profile_picture"/></td><td>Mora Aglio, Tomás</td><td>tomas.mora.aglio<span class="display-none">@anti-spam</span>@gmail.com</td></tr>
-        <tr><td><img src="/images/logo_photo.png" alt="profile_foto"  class="profile_picture"/></td><td>Benito García, Oscar </td><td>oscar.bg.89<span class="display-none">@anti-spam</span>@gmail.com</td></tr>
-        <tr><td><img src="/images/logo_photo.png" alt="profile_foto"  class="profile_picture"/></td><td>Mediero Clemente, Cristina </td><td> medicris89<span class="display-none">@anti-spam</span>@hotmail.com</td></tr>
-        <tr><td><img src="/images/logo_photo.png" alt="profile_foto"  class="profile_picture"/></td><td>Bonacasa Aguinaco, Laura </td><td>laurabonacasa<span class="display-none">@anti-spam</span>@gmail.com</td></tr>
-        <tr><td><img src="/images/logo_photo.png" alt="profile_foto"  class="profile_picture"/></td><td>Molenat Muelas, Melisa</td><td>melisa.molenat<span class="display-none">@anti-spam</span>@gmail.com</td></tr>
+
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/tomas.jpg" class="profile_picture"/></td> <td>Mora Aglio, Tomás</td> <td>recursos<span class="display-none">@anti-spam</span>@induforum.es</td> </tr>
+
+    </tbody>
+</table>
+
+
+
+
+<table class="co_style">
+	<tbody>
+
+        <tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/cristina.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/melisa.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/laura.jpg" class="profile_picture"/></td></tr>
+
+
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/oscar.jpg" class="profile_picture"/></td>
+
+
     </tbody>
 </table>
