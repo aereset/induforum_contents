@@ -1,19 +1,43 @@
 % TITLE=Departamento de marketing
-%SUBTITLE=
-% DESCRIPTION=
-% KEYWORDS=
-
-=Marketing=
-----
-<table>
+% SUBTITLE=
+% DESCRIPTION=Miembros marketing
+% KEYWORDS=Contacto marketing
+<table class="co_style">
     <thead>
         <tr>
-        		<th>Foto</th>
-            <th>Name</th>
+            <th>Foto</th>
+            <th>Nombre</th>
             <th>email</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td><img src="/images/logo_photo.png" alt="profile_foto"  class="profile_picture"/></td><td>de la Peña Gallo, Álvaro</td><td>marketing<span class="display-none">@anti-spam</span>@induforum.es</td></tr>
+
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/alvaro.jpg" class="profile_picture"/></td> <td>de la Peña Gallo, Álvaro</td> <td>marketing<span class="display-none">@anti-spam</span>@induforum.es</td> </tr>
+
+    </tbody>
+</table>
+
+
+<table class="co_style">
+	<tbody>
+
+
+        <tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/miguelmartin.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/jaimeortiz.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/joseflor.jpg" class="profile_picture"/></td></tr>
+
+
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/jaimelazaro.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/carlosort.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/juanmoreno.jpg" class="profile_picture"/></td></tr>
+
+
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/miguefernandez.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/mariaaranda.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/angel.jpg" class="profile_picture"/></td></tr>
+
+
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/javiersanjurjo.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/sofiamoraga.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/cristinavila.jpg" class="profile_picture"/></td></tr>
+
+
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/dario.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/diegoezna.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/dario.jpg" class="profile_picture"/></td></tr>
+
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/diegoezna.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/pedrojesus.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/martapirck.jpg" class="profile_picture"/></td></tr>
+
+
     </tbody>
 </table>
