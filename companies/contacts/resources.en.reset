@@ -2,7 +2,6 @@
 % SUBTITLE=
 % DESCRIPTION=Resouerces department staff
 % KEYWORDS=Resources department contact
-
 <table class="co_style">
     <thead>
         <tr>
@@ -15,20 +14,15 @@
 
 		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/tomas.jpg" class="profile_picture"/></td> <td>Mora Aglio, Tomás</td> <td>recursos<span class="display-none">@anti-spam</span>@induforum.es</td> </tr>
 
-    </tbody>
-</table>
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/cristina.jpg" class="profile_picture"/></td> <td>Mediero Clemente, Cristina</td> <td>medicris89<span class="display-none">@anti-spam</span>@hotmail.com</td> </tr>
 
 
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/melisa.jpg" class="profile_picture"/></td> <td>Molenat Muelas, Melisa</td> <td>melisa.molenat<span class="display-none">@anti-spam</span>@gmail.com</td> </tr>
 
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/laura.jpg" class="profile_picture"/></td> <td>Bonacasa Aguinaco, Laura</td> <td>laurabonacasaa<span class="display-none">@anti-spam</span>@gmail.com</td> </tr>
 
-<table class="co_style">
-	<tbody>
-
-        <tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/cristina.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/melisa.jpg" class="profile_picture"/></td> <td><img style="width:100px; height:133px" alt="profile_foto" src="/images/staff/laura.jpg" class="profile_picture"/></td></tr>
-
-
-		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/oscar.jpg" class="profile_picture"/></td>
-
+		<tr> <td><img style="width: 100%; height:100%" alt="profile_foto" src="/images/staff/oscar.jpg" class="profile_picture"/></td> <td>Benito García, Oscar</td> <td>oscar.bg.89<span class="display-none">@anti-spam</span>@gmail.com</td> </tr>
 
     </tbody>
 </table>
+
