@@ -1,8 +1,7 @@
 % TITLE= Bienvenida
 % SUBTITLE=
-% DESCRIPTION=
-% KEYWORDS=
-
+% DESCRIPTION=Bienvenido a Induforum 2013
+% KEYWORDS=Indice
 =Induforum 2013=
 ----
 
@@ -31,4 +30,13 @@ Puedes consultar aquí <a target="_blank"href="/es/files/Guia/"> la guía de emp
 		</tr>
 </table>
 
+=Patrocinadores=
+----
 
+
+<table class="no_style">
+
+<tr>
+<img src="/images/oyher_topics/consejo_social.jpg"></tr>
+	
+</table>

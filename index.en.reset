@@ -1,8 +1,7 @@
 % TITLE= Welcome
-%SUBTITLE=
-% DESCRIPTION=
-% KEYWORDS=
-
+% SUBTITLE=
+% DESCRIPTION=Welcome to Induforum13
+% KEYWORDS=Index
 =Induforum 2013=
 ----
 
@@ -30,4 +29,15 @@ You can read here <a target="_blank"href="/es/files/Guia/">the companies guide. 
 
 		<script src="/js/sponsors3.js"></script>
 		</tr>
+</table>
+
+=Sponsors=
+----
+
+
+<table class="no_style">
+
+<tr>
+<img src="/images/oyher_topics/consejo_social.jpg"></tr>
+	
 </table>
